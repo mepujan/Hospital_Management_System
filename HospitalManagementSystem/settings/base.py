@@ -14,6 +14,7 @@ INSTALLED_APPS = [
     'Hospital.apps.HospitalConfig',
     'rest_framework',
     'rest_framework.authtoken',
+    'ckeditor'
 ]
 
 MIDDLEWARE = [

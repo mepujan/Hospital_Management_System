@@ -35,7 +35,7 @@ DATABASES = {
         'NAME': 'HospitalManagementSystem',
         'Host': 'localhost',
         'USER': 'root',
-        'PASSWORD': 'pujan9876',
+        'PASSWORD': 'Pujan9876@',
         'PORT': '3306'
     }
 }
